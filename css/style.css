@@ -565,7 +565,12 @@ margin: auto;
   margin-bottom: 0;
 }
 
-
+.projects .card{
+  padding: 0px;
+  margin: auto;
+  width: fit-content;
+  margin-bottom: 55px;
+}
 /**Mobile View*/
 
 @media screen and (max-width: 922px) {
