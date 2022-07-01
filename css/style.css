@@ -564,7 +564,12 @@ margin: auto;
   font-size: 12px;
   margin-bottom: 0;
 }
-
+.projects{
+  height: 90vh;
+}
+.projects::-webkit-scrollbar{
+  display: none;
+}
 .projects .card{
   padding: 0px;
   margin: auto;
